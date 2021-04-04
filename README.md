@@ -1,15 +1,12 @@
 # ExternalPlugins
-[![Discord](https://discordapp.com/api/guilds/597985733403475982/widget.png?style=shield)](https://discordapp.com/invite/gsoft)
-[![GitHub issues](https://img.shields.io/github/issues/Ganom/ExternalPlugins.svg)](https://github.com/Ganom/ExternalPlugins/issues)
 
 External plugins for use with OpenOSRS, this is a seperate entity, not OpenOSRS.
 
 Add this repo to your external plugins manager by clicking the top right + button.
 Make sure it looks like this picture below.
 
-![](https://cdn.discordapp.com/attachments/598227510727016493/676194450636013568/unknown.png)
+![](https://cdn.discordapp.com/attachments/828143715364372520/828144975388737536/explugins.png)
 
-If you'd like to support what I do, feel free to subscribe to my patreon @https://www.patreon.com/ganom
 
 ## Delays
 All delays values below are in milliseconds.
@@ -34,5 +31,3 @@ Green is standard distribution.
 * __Nylo Swapper__: This will change your gear and prayers during the Nylocas fight in Theatre of Blood.
 * __Olm Swapper__: This will change your prayers during the Olm encounter at Chambers of Xeric.
 * __One Click__: Probably the most popular plugin, this plugin allows you to simplify quite a large variety of tasks by reducing the amount of clicks to... 1. For instance, instead of clicking a bone and using it on the altar, just click the altar, or set a custom one inventory one click in the config. You could for instance set it to use an Apple on an Orange in one click if you desired.
-
-##### If you'd like to see what other plugins I offer, make sure to check my discord channel #Platinum-Info

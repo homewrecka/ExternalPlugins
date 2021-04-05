@@ -8,19 +8,6 @@ Make sure it looks like this picture below.
 ![](https://cdn.discordapp.com/attachments/828143715364372520/828144975388737536/explugins.png)
 
 
-## Delays
-All delays values below are in milliseconds.
-* __Min__: The absolute minimum delay it can use.
-* __Max__: The absolute maximum delay it can use.
-* __Target__: The peak of the curve, the value most commonly used.
-* __Deviation__: How far it can deviate from target and still remain common.
-* __Weighted Distribution__: This will turn the standard bell curve into a right shifted bell curve.
-
-Below is a picture of a 10,000,000 click sample size at settings min=20, max=80, target=50, deviation=5.
-Blue is weighted distribution.
-Green is standard distribution.
-![](https://i.imgur.com/CrRCWa5.png)
-
 ## Plugins
 * __Auto Clicker__: This plugin will automatically click where you are hovering when you press the hotkey.
 * __Auto Pray Flick__: This plugin will attempt to automatically flick your prayers, simply place your cursor over the prayer orb, and press the hotkey.
